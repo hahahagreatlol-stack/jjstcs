@@ -1,0 +1,43 @@
+{
+  "points": {},
+  "warnings": {},
+  "daily": {},
+  "shop": {},
+  "afk": {
+    "1553192483775848539": {}
+  },
+  "giveaways": {},
+  "welcome_channels": {},
+  "goodbye_channels": {},
+  "greeting_settings": {
+    "1553192483775848539": {
+      "welcome": false,
+      "goodbye": false
+    }
+  },
+  "greeting_texts": {
+    "1553192483775848539": {}
+  },
+  "log_channels": {},
+  "auto_roles": {},
+  "suggestion_channels": {},
+  "roblox_boards": {
+    "1553192483775848539": {
+      "title": "\ud83c\udfc6 En \u0130yi 10",
+      "subtitle": "",
+      "color": "Alt\u0131n",
+      "avatar_style": "Kafa",
+      "entries": []
+    }
+  },
+  "challenge_settings": {
+    "1553192483775848539": {
+      "referee": 1560358226762137702,
+      "evaluator": 1554548749362012261,
+      "jr_evaluator": 1553192483847151620,
+      "category": 1553192485226938407,
+      "results": 1560365829424554156
+    }
+  },
+  "challenges": {}
+}
